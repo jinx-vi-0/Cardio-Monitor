@@ -5,7 +5,7 @@
 A simple web application which uses Machine Learning algorithm to predict the heart condition of a person by providing some inputs about the person health like age, gender, blood pressure, cholesterol level etc built using `Flask` and deployed on `Render`.
 
 - To View the Deployed Application, click on the link given below : 
-  **Heart Failure Predictor Web App -** *[https://heart-disease-predictor-flask.herokuapp.com/](https://heart-disease-predictor-flask.herokuapp.com/)*
+  **Heart Failure Predictor Web App -** *[https://cardio-monitor.onrender.com/](https://cardio-monitor.onrender.com/)*
  
  ### Technical Aspect
  
